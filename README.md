@@ -1,2 +1,1 @@
-# WebApp
-WebApp for training js
+# ProyectoWeb
